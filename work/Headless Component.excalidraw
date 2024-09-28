@@ -178,7 +178,7 @@
       "containerId": null,
       "originalText": "Kent Dodds",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "image",
@@ -286,7 +286,7 @@
       "containerId": "7XSsT-NETLepPWiRFIPaq",
       "originalText": "Headless Layer",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "line",
@@ -458,7 +458,7 @@
       "containerId": "bNX39WYnqkEuQx6B3Cv8i",
       "originalText": "State Layer",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "line",
@@ -630,7 +630,7 @@
       "containerId": "ekIwb_GnYRbv4bq9Qd0qW",
       "originalText": "Styling Layer",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "line",
@@ -1066,7 +1066,7 @@
       "containerId": "oPop9dOchEhIV4I4bBaFj",
       "originalText": "spartan/stack",
       "lineHeight": 1.25,
-      "baseline": 62
+      "baseline": 63
     },
     {
       "type": "ellipse",
@@ -1150,7 +1150,7 @@
       "containerId": "94fDT5U8ZViaYW27JFZ2w",
       "originalText": "spartan/ui",
       "lineHeight": 1.25,
-      "baseline": 62
+      "baseline": 63
     },
     {
       "type": "ellipse",
@@ -1226,7 +1226,7 @@
       "containerId": "t8dosBemtcxG_CdOnNqaI",
       "originalText": "spartan/ui/brain",
       "lineHeight": 1.25,
-      "baseline": 62
+      "baseline": 63
     },
     {
       "type": "ellipse",
@@ -1302,7 +1302,7 @@
       "containerId": "4anTmihFkFLapvDGQELIP",
       "originalText": "spartan/ui/helm",
       "lineHeight": 1.25,
-      "baseline": 62
+      "baseline": 63
     },
     {
       "type": "rectangle",
@@ -1374,7 +1374,7 @@
       "containerId": "KJ2dms-C7lpysleZBEQZa",
       "originalText": "- State management\n- Business logic\n- Data flow\n- Headless\n- full-stack",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 120
     },
     {
       "type": "rectangle",
@@ -1446,7 +1446,7 @@
       "containerId": "Y8OiYLoaB66EHU7PJj1CD",
       "originalText": "- State management\n- UI interactive logic\n- unstyled UI\n- combine other UI components",
       "lineHeight": 1.25,
-      "baseline": 94
+      "baseline": 95
     },
     {
       "type": "rectangle",
@@ -1518,7 +1518,7 @@
       "containerId": "QZQXNZe8SQ2ArqL6gsd_S",
       "originalText": "import from node_module",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "rectangle",
@@ -1590,7 +1590,7 @@
       "containerId": "uJa8wtW6OMqznjZipu6vZ",
       "originalText": "generate (copy) helm component in libs from your workspace and import from libs",
       "lineHeight": 1.25,
-      "baseline": 94
+      "baseline": 95
     },
     {
       "type": "rectangle",
@@ -1662,7 +1662,7 @@
       "containerId": "9nPLg5rxObOO-pSG-CIpl",
       "originalText": "- UI Layout\n- Default style",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "arrow",
@@ -1956,7 +1956,7 @@
       "containerId": "yclajEUvjxmUjoD040r7q",
       "originalText": "Headless UI",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "ellipse",
@@ -2026,7 +2026,7 @@
       "containerId": "8fk4c0UXgPyaE3_IXNkpi",
       "originalText": "UI Libraries",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "ellipse",
@@ -2100,7 +2100,7 @@
       "containerId": "1YYaprgcj4ZLagYVXPmeX",
       "originalText": "Sparten/ui",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "ellipse",
@@ -2186,7 +2186,7 @@
       "containerId": "pb7DslTxXDMLu6q3RbyVj",
       "originalText": "shadcn/ui",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "ellipse",
@@ -2276,7 +2276,7 @@
       "containerId": "G7LGWNGSU2NFAnZsyfxXd",
       "originalText": "Radix UI",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "ellipse",
@@ -2358,7 +2358,7 @@
       "containerId": "1YeoFfhsd7lvr5JnChtWk",
       "originalText": "PrimeNG",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "ellipse",
@@ -2436,7 +2436,7 @@
       "containerId": "HwXY_LeCCdTxFyeW9z9yR",
       "originalText": "Angular",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "ellipse",
@@ -2518,7 +2518,7 @@
       "containerId": "oZUIgLzTxIeHy_47VJ0Cs",
       "originalText": "React",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "ellipse",
@@ -2600,7 +2600,7 @@
       "containerId": "VG5ej2Yj8GKmLt3jJVGFW",
       "originalText": "Vue",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "ellipse",
@@ -2674,7 +2674,7 @@
       "containerId": "vTUFUFvam0RnWw1Fo3nDc",
       "originalText": "Svelte",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "arrow",
@@ -3440,8 +3440,8 @@
     },
     {
       "type": "text",
-      "version": 605,
-      "versionNonce": 707179275,
+      "version": 608,
+      "versionNonce": 1752270893,
       "isDeleted": false,
       "id": "Z-szzmKgNzlsEG9XnBjlM",
       "fillStyle": "solid",
@@ -3464,7 +3464,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727105871568,
+      "updated": 1727154421343,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3578,7 +3578,7 @@
       "containerId": "tCAufsVoX4b1N0YskQ4aE",
       "originalText": "  \n  Radix UI",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 45
     },
     {
       "type": "rectangle",
@@ -3652,7 +3652,7 @@
       "containerId": "4AJoNkJZpf0kxbcNr-cEf",
       "originalText": " Primitives ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 20
     },
     {
       "type": "image",
@@ -4059,8 +4059,8 @@
     },
     {
       "type": "text",
-      "version": 303,
-      "versionNonce": 1998198565,
+      "version": 306,
+      "versionNonce": 929832227,
       "isDeleted": false,
       "id": "LQLJFrSYdi2W389WdmdCP",
       "fillStyle": "solid",
@@ -4083,7 +4083,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727105871568,
+      "updated": 1727154421344,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4174,8 +4174,8 @@
     },
     {
       "type": "text",
-      "version": 358,
-      "versionNonce": 814881195,
+      "version": 361,
+      "versionNonce": 1523186317,
       "isDeleted": false,
       "id": "QAe4GfjbQVqsRwLb638sy",
       "fillStyle": "solid",
@@ -4198,7 +4198,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727105871568,
+      "updated": 1727154421344,
       "link": null,
       "locked": false,
       "fontSize": 20,

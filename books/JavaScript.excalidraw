@@ -38,8 +38,8 @@
     },
     {
       "type": "text",
-      "version": 393,
-      "versionNonce": 638137175,
+      "version": 395,
+      "versionNonce": 432106405,
       "isDeleted": false,
       "id": "Xcc2lNALAuuG4ezDM8iEX",
       "fillStyle": "solid",
@@ -59,7 +59,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727107562189,
+      "updated": 1727344414618,
       "link": null,
       "locked": false,
       "fontSize": 101.86249999999994,
@@ -70,7 +70,7 @@
       "containerId": null,
       "originalText": "JavaScript Engine",
       "lineHeight": 1.25,
-      "baseline": 89
+      "baseline": 90
     },
     {
       "type": "image",
@@ -460,7 +460,7 @@
       "containerId": "x3wsa2vGwCJm2BjB6UR9N",
       "originalText": "Web APIs",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -554,7 +554,7 @@
       "containerId": "lzutswCTyODafC4ecycrp",
       "originalText": "Global APIs",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -640,7 +640,7 @@
       "containerId": "nO4UZpdLFThLsZKQX6tFz",
       "originalText": "Buffer",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -726,7 +726,7 @@
       "containerId": "IaoDKc76eAE54drnlIhwr",
       "originalText": "DOM",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -812,7 +812,7 @@
       "containerId": "MHIn4xvUHShub0FumgyOm",
       "originalText": "process",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -898,7 +898,7 @@
       "containerId": "TIZTUAnKE3UcJELItk9D_",
       "originalText": "AJAX",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -984,7 +984,7 @@
       "containerId": "MZcCpikCaH9FP-rDKa4MT",
       "originalText": "require",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -1070,7 +1070,7 @@
       "containerId": "WyKUfwxaG5K1ce1xE_BwH",
       "originalText": "setTimeout",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -1152,7 +1152,7 @@
       "containerId": "8f6FMclXBaZpzsaxlzymt",
       "originalText": "Asynchronous",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -1238,7 +1238,7 @@
       "containerId": "omzOIVDpeALgDlSTZY7h5",
       "originalText": "promise based",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -1324,7 +1324,7 @@
       "containerId": "9-K13TfODwa-r8QaDQXMg",
       "originalText": "callback based",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -1427,7 +1427,7 @@
       "containerId": "EspYuR0sej4tENBE5GcXd",
       "originalText": "提供 Global Object",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -1526,7 +1526,7 @@
       "containerId": "Iq2xMfY70tzh9Ye9NDmLT",
       "originalText": "in Node.js is",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -1625,7 +1625,7 @@
       "containerId": "1gzVVIXSVrK-r3N6uCByA",
       "originalText": "in Browser is",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -2060,7 +2060,7 @@
       "containerId": "JTFjDXsMQjbG_RVh6y9_q",
       "originalText": "is",
       "lineHeight": 1.15,
-      "baseline": 14
+      "baseline": 15
     },
     {
       "type": "ellipse",
@@ -2253,7 +2253,7 @@
       "containerId": "VtDZ8_3HfaTnme6nD7rLf",
       "originalText": "分為",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -2354,7 +2354,7 @@
       "containerId": "pDBsnrM2r0Gcltse7qB6C",
       "originalText": "分為",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -2464,7 +2464,7 @@
       "containerId": "v9uBmTc6d1APdyGfaTZXX",
       "originalText": "Macrotask Queue",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -2546,7 +2546,7 @@
       "containerId": "m093jJ5Uj7apmqftCA6BV",
       "originalText": "<script src=\"...\">\n外部下載 script",
       "lineHeight": 1.15,
-      "baseline": 32
+      "baseline": 33
     },
     {
       "type": "ellipse",
@@ -2628,7 +2628,7 @@
       "containerId": "y74q0nK3WT6NlqU8JiX0K",
       "originalText": "DOM event handler\n(ex: mousemove event( () => {) )",
       "lineHeight": 1.15,
-      "baseline": 69
+      "baseline": 70
     },
     {
       "type": "ellipse",
@@ -2710,7 +2710,7 @@
       "containerId": "ylpdTnniQIUTx3SWtz5Lv",
       "originalText": "Web APIs\n(ex: setTimeout)",
       "lineHeight": 1.15,
-      "baseline": 32
+      "baseline": 33
     },
     {
       "type": "ellipse",
@@ -2792,7 +2792,7 @@
       "containerId": "s0k0s1g0uUO7jBG1wf8e3",
       "originalText": "AJAX callback function",
       "lineHeight": 1.15,
-      "baseline": 32
+      "baseline": 33
     },
     {
       "type": "ellipse",
@@ -2874,7 +2874,7 @@
       "containerId": "bRW-gANljjaLYBPS627cs",
       "originalText": "不做渲染\n(No render)",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -2956,7 +2956,7 @@
       "containerId": "uBaY2cQRYhez0numbAvfI",
       "originalText": "Browser block",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "arrow",
@@ -3059,7 +3059,7 @@
       "containerId": "ZIswDqQ3Ao9SqyIRSLGtV",
       "originalText": "include",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -3162,7 +3162,7 @@
       "containerId": "OQPm0aUyvflnB1hGWHNBP",
       "originalText": "include",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -3265,7 +3265,7 @@
       "containerId": "XFAl8qAi7WqEvec7gSs1a",
       "originalText": "include",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -3368,7 +3368,7 @@
       "containerId": "zgCIte_QJCRO1htPlss53",
       "originalText": "include",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -3471,7 +3471,7 @@
       "containerId": "-8WArSJAsLlysqo_i23CK",
       "originalText": "會",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -3574,7 +3574,7 @@
       "containerId": "UkeamuoDw-retClgz5ioW",
       "originalText": "會",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -3668,7 +3668,7 @@
       "containerId": "rufxTKx86EBDf8DxjgLLO",
       "originalText": "Microtask Queue",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -3750,7 +3750,7 @@
       "containerId": "WVSnLUXLwS1FI2EN8c2jV",
       "originalText": "queueMicrotask(func)",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -3832,7 +3832,7 @@
       "containerId": "uHhnrt9Ckd3NvwtNv0cC4",
       "originalText": "promise",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -4137,7 +4137,7 @@
       "containerId": "wp6ShU37P4SF-gkXXfDXf",
       "originalText": "從",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -4236,7 +4236,7 @@
       "containerId": "52UcIygMg8DARrXUj9ndm",
       "originalText": "拿 tasks 丟到",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -4335,7 +4335,7 @@
       "containerId": "r81pbp10oH3bTzCurrXK4",
       "originalText": "一次拿一個",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -4438,7 +4438,7 @@
       "containerId": "1ClUd5iXShNUdDqD2R86b",
       "originalText": "拿出全部",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -4626,7 +4626,7 @@
       "containerId": "mB3Dr-eAp87tRl140HZnl",
       "originalText": "Global Execution Context",
       "lineHeight": 1.15,
-      "baseline": 64
+      "baseline": 65
     },
     {
       "type": "ellipse",
@@ -4704,7 +4704,7 @@
       "containerId": "ri3mMo5gR568nSQn4CvOy",
       "originalText": "Single Thread\n單執行緒",
       "lineHeight": 1.15,
-      "baseline": 64
+      "baseline": 65
     },
     {
       "type": "ellipse",
@@ -4782,7 +4782,7 @@
       "containerId": "VTSXRNEunx6O5WLYSsGmF",
       "originalText": "Synchronous",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -4864,7 +4864,7 @@
       "containerId": "nBcop2QpbC3Qflzt_FvEB",
       "originalText": "FILO\n(First In Last Out)",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -4942,7 +4942,7 @@
       "containerId": "oWVHNb0VzcPrDAoLOXiIy",
       "originalText": "global object",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -5020,7 +5020,7 @@
       "containerId": "xSsJTI6KMkFinrNbnfU0w",
       "originalText": "this",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -5295,7 +5295,7 @@
       "containerId": "HGGh11Kj4WIEIUl324PXm",
       "originalText": "最底層有",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5394,7 +5394,7 @@
       "containerId": "0UC9As2YLBq99cLppqNJ9",
       "originalText": "is a",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5493,7 +5493,7 @@
       "containerId": "qFZOnzeeCp3zGacZ9Rooc",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5592,7 +5592,7 @@
       "containerId": "ZpF8FVCCfvqty1M5P5QRq",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5691,7 +5691,7 @@
       "containerId": "HXUzX15UVZjpWMq5eCdxY",
       "originalText": "is",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5790,7 +5790,7 @@
       "containerId": "hFgE6PF3cmcL-5ftlfuOr",
       "originalText": "is",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5889,7 +5889,7 @@
       "containerId": "vhu9ihKvDreemOpqnq_qy",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -5992,7 +5992,7 @@
       "containerId": "lFowLoDRGWJ2pXJtrh0YW",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -6095,7 +6095,7 @@
       "containerId": "VI8YC8mjzEXJJ_uyLYuBz",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -6194,7 +6194,7 @@
       "containerId": "7pPPqTh39w1TcDay0k-o4",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -6293,7 +6293,7 @@
       "containerId": "kkHa7OBMFmGkpCnwAv3pX",
       "originalText": "has",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -6509,7 +6509,7 @@
       "containerId": "N_w0ypEoVyPwmDJYn-Szr",
       "originalText": "記憶體空間",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -6617,7 +6617,7 @@
       "containerId": "sQKs-G3byto11-Q-U-wBh",
       "originalText": "記憶體位址\nReference",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -6725,7 +6725,7 @@
       "containerId": "P1tzkVxFU8DxPZ5PHh8s9",
       "originalText": "變數值",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -6829,7 +6829,7 @@
       "containerId": "mrPduNyEFn2PkAiecH7jJ",
       "originalText": "Garbage Collection",
       "lineHeight": 1.15,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "arrow",
@@ -6930,7 +6930,7 @@
       "containerId": "GUUnGSTb2N8XIevrE5AK9",
       "originalText": "assign",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7031,7 +7031,7 @@
       "containerId": "8tqmoPotehnT4sPTKd0-y",
       "originalText": "to",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7132,7 +7132,7 @@
       "containerId": "ZcUigAv3edphLFMR-0qQO",
       "originalText": "has a",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7233,7 +7233,7 @@
       "containerId": "frqO0-YRwAYmZxOgowim9",
       "originalText": "do",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7332,7 +7332,7 @@
       "containerId": "FWqiv4kY8u2Gq2RfxQ97w",
       "originalText": "Refer",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7431,7 +7431,7 @@
       "containerId": "4zwLtfe3-840Lzgfyq0go",
       "originalText": "either",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7530,7 +7530,7 @@
       "containerId": "NJDRtVl7Arti_nl6N5VVp",
       "originalText": "or",
       "lineHeight": 1.15,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "frame",
